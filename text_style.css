@@ -1,0 +1,14 @@
+#p1
+{
+    letter-spacing: 10px;
+    text-decoration: underline;
+}
+
+#p2{
+    text-align: right;
+    text-transform: uppercase;
+    line-height: 2;
+}
+#a1{
+    text-decoration: none;
+}
